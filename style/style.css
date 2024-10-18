@@ -1,0 +1,25 @@
+.normal-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 2px solid #0e7a81;
+    background-color: rgb(231, 231, 231);
+}
+.active-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 20px; 
+    margin-right: 20px; 
+    margin-left: 20px;    
+    border-radius: 25px; 
+    color: white;
+    border: 3px solid #0e7a81;
+    background-color:#0e7a81;
+}
